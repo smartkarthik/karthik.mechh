@@ -1,0 +1,19 @@
+#include<stdio.h>
+#include<conio.h>
+ int main()
+{
+    int sum,i,n,k,c[5];
+    printf("enter the values of N,k");
+     scanf("%d",&n);
+     sum=0;
+    for(i=o;i<n;i++)
+    {
+        scanf("%d",&c[i]);
+    }
+    for(i=o;i<k;i++)
+    {
+      sum+=c[i];
+    }
+    printf("%d",sum);
+}
+      
